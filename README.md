@@ -3,7 +3,9 @@ Spatial Heterogeneity and Subtypes of Functional Connectivity Development in You
 
 This repository contains the code and scripts used for our study investigating [Spatial Heterogeneity and Subtypes of Functional Connectivity (FC) Development in Youth](<https://doi.org/10.1101/2025.01.24.634828>).
 
-Traditional brain age metrics provide a global overview, potentially masking important local variations. To address this, we introduce a regional brain development index for assessing spatially fine-grained FC maturation. ![FC-Figure](https://github.com/ML-DataAnalytics/FC-SpatialHeterogeneity/blob/main/Spatial%20Heterogeneity%20and%20Subtypes%20of%20Functional%20Connectivity%20Development%20in%20Youth.jpg) 
+Traditional brain age metrics provide a global overview, potentially masking important local variations. To address this, we introduce a regional brain development index for assessing spatially fine-grained FC maturation. 
+
+![FC-Figure](https://github.com/ML-DataAnalytics/FC-SpatialHeterogeneity/blob/main/Spatial%20Heterogeneity%20and%20Subtypes%20of%20Functional%20Connectivity%20Development%20in%20Youth.jpg) 
 
 Using fMRI data from the Philadelphia Neurodevelopmental Cohort (PNC) and replicating in the Human Connectome Project Development (HCP-D) cohort, we: 1) Characterized spatial patterns of FC development across the cortex; 2) Identified distinct subtypes of individuals based on their unique spatial FC development patterns using clustering; 3) Demonstrated that subtypes reflecting advanced development along the sensorimotor-association axis show superior cognitive performance; and 4) Linked these developmental patterns to gene expression profiles enriched for neural differentiation, synaptogenesis, and myelination. This work highlights the importance of spatial heterogeneity in understanding neurocognitive development. 
 
