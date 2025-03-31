@@ -17,12 +17,12 @@ This repository contains the code adn scripts used for data analysis in the stud
 
 ## Reference:
 
-@article{li2025spatial,
-  title = {Spatial Heterogeneity and Subtypes of Functional Connectivity Development in Youth},
-  author = {Li, Hongming and Cui, Zaixu and Cieslak, Matthew and Salo, Taylor and Moore, Tyler M and Gur, Raquel E and Gur, Ruben C and Shinohara, Russell T and Oathes, Desmond J and Davatzikos, Christos and Satterthwaite,   Theodore D and Fan, Yong},
-  journal = {bioRxiv},
-  pages = {2025--01},
-  year = {2025},
-  publisher = {Cold Spring Harbor Laboratory}
-  doi = {https://doi.org/10.1101/2025.01.24.634828}
-}
+    @article{li2025spatial,
+      title = {Spatial Heterogeneity and Subtypes of Functional Connectivity Development in Youth},
+      author = {Li, Hongming and Cui, Zaixu and Cieslak, Matthew and Salo, Taylor and Moore, Tyler M and Gur, Raquel E and Gur, Ruben C and Shinohara, Russell T and Oathes, Desmond J and Davatzikos, Christos and Satterthwaite, Theodore D and Fan, Yong},
+      journal = {bioRxiv},
+      pages = {2025--01},
+      year = {2025},
+      publisher = {Cold Spring Harbor Laboratory},
+      doi = {https://doi.org/10.1101/2025.01.24.634828}
+    }
