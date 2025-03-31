@@ -1,26 +1,25 @@
 # FC-SpatialHeterogeneity
- Spatial Heterogeneity and Subtypes of Functional Connectivity Development in Youth
+Spatial Heterogeneity and Subtypes of Functional Connectivity Development in Youth
 
-This repository contains the scripts used for data analysis in the study "Spatial Heterogeneity and Subtypes of Functional Connectivity Development
- in Youth".
-
-
-Brief description:
-
-1_regionwise_age_prediction: scripts for region-wise age prediction based on the functional connectivity (FC) profile of each cortical region.
-
-2_regionwise_fc_dev_subtyping: scripts for computing regional brain development (RBD) index maps and subtyping.
-
-3_gene_association_analysis: scripts for association analysis between RBD patterns and gene data.
-
-4_replication_hcpd: scripts for replication analysis of the RBD patterns obtained.
+This repository contains the code adn scripts used for data analysis in the study "Spatial Heterogeneity and Subtypes of Functional Connectivity Development in Youth".
 
 
-Reference:
+## Brief description:
+
+1. **regionwise_age_prediction**: scripts for region-wise age prediction based on the functional connectivity (FC) profile of each cortical region.
+
+2. **regionwise_fc_dev_subtyping**: scripts for computing regional brain development (RBD) index maps and subtyping.
+
+3. **gene_association_analysis**: scripts for association analysis between RBD patterns and gene data.
+
+4. **replication_hcpd**: scripts for replication analysis of the RBD patterns obtained.
+
+
+## Reference:
+
 @article{li2025spatial,
   title={Spatial Heterogeneity and Subtypes of Functional Connectivity Development in Youth},
-  author={Li, Hongming and Cui, Zaixu and Cieslak, Matthew and Salo, Taylor and Moore, Tyler M and Gur, Raquel E and Gur, Ruben C and Shinohara, Ru
-ssell T and Oathes, Desmond J and Davatzikos, Christos and Satterthwaite, Theodore D and Fan, Yong},
+  author={Li, Hongming and Cui, Zaixu and Cieslak, Matthew and Salo, Taylor and Moore, Tyler M and Gur, Raquel E and Gur, Ruben C and Shinohara, Russell T and Oathes, Desmond J and Davatzikos, Christos and Satterthwaite, Theodore D and Fan, Yong},
   journal={bioRxiv},
   pages={2025--01},
   year={2025},
