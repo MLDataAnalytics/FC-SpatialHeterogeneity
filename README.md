@@ -65,7 +65,7 @@ If you find our work useful or inspiring in your research, please cite our study
   pages = {2025--01},
   year = {2025},
   publisher = {Cold Spring Harbor Laboratory},
-  doi = {[https://doi.org/10.1101/2025.01.24.634828](https://doi.org/10.1101/2025.01.24.634828)}
+  doi = {[https://doi.org/10.1101/2025.01.24.634828]}
 }
 ```
 
@@ -73,4 +73,4 @@ If you find our work useful or inspiring in your research, please cite our study
 
 ## 🙏 Acknowledgment
 
-This project has been generously supported in part by the National Institutes of Health (NIH) through grants **U24NS130411** and **R01EB022573**. We are grateful for their support in making this research possible.
+This project has been generously supported in part by the National Institutes of Health (NIH) through grants **R01EB022573**, **AG066650**, and **U24NS130411**. We are grateful for their support in making this research possible.
