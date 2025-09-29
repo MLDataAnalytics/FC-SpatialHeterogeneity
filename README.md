@@ -11,7 +11,9 @@ This repository contains the official code and scripts used for our study invest
 
 While global brain age metrics offer a general understanding of brain development, they often mask critical local variations. Our research addresses this limitation by introducing a **regional brain development (RBD) index**, which provides a spatially fine-grained assessment of functional connectivity (FC) maturation across the cortex.
 
-![FC-SpatialHeterogeneity Visualization](https://github.com/ML-DataAnalytics/FC-SpatialHeterogeneity/blob/main/Spatial%20Heterogeneity%20and%20Subtypes%20of%20Functional%20Connectivity%20Development%20in%20Youth.jpg)
+<p align="center" width="100%">
+    <img width="90%" src="https://github.com/ML-DataAnalytics/FC-SpatialHeterogeneity/blob/main/Spatial%20Heterogeneity%20and%20Subtypes%20of%20Functional%20Connectivity%20Development%20in%20Youth.jpg"> 
+</p>
 
 Using functional Magnetic Resonance Imaging (fMRI) data from the **Philadelphia Neurodevelopmental Cohort (PNC)** for discovery and replicating our findings in the **Human Connectome Project Development (HCP-D) cohort**, we:
 
