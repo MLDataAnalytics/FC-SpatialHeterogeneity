@@ -1,7 +1,7 @@
 # FC-SpatialHeterogeneity: Spatial Heterogeneity and Subtypes of Functional Connectivity Development in Youth
 
 [![DOI](https://img.shields.io/badge/DOI-10.1101%2F2025.01.24.634828-blue?style=for-the-badge&logo=biorxiv)](https://doi.org/10.1101/2025.01.24.634828)
-[![Journal](https://img.shields.io/badge/Nature_Communications-Accepted-blueviolet)](https://doi.org/10.1038/s41467-026-68707-7)
+[![Journal](https://img.shields.io/badge/Nature_Communications-blueviolet)](https://doi.org/10.1038/s41467-026-68707-7)
 [![Paper](https://img.shields.io/badge/Functional_Connectivity_Development-2026-blue)](https://doi.org/10.1038/s41467-026-68707-7)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
