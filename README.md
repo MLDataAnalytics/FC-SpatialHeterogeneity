@@ -71,6 +71,18 @@ If you find our work useful or inspiring in your research, please cite our study
   publisher = {Cold Spring Harbor Laboratory},
   doi = {[https://doi.org/10.1101/2025.01.24.634828]}
 }
+
+@article{li2026spatial,
+  author = {Li, H. and Cui, Z. and Cieslak, M. and Salo, T. and Moore, T. M. and Gur, R. E. and Gur, R. C. and Shinohara, R. T. and Oathes, D. J. and Davatzikos, C. and Satterthwaite, T. D. and Fan, Y.},
+  title = {Spatial heterogeneity and subtypes of functional connectivity development in youth},
+  journal = {Nat Commun},
+  year = {2026},
+  month = {Jan},
+  day = {23},
+  doi = {10.1038/s41467-026-68707-7},
+  note = {Epub ahead of print. PMID: 41578132}
+}
+
 ```
 
 ---
